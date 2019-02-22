@@ -5,5 +5,5 @@ for	item in checklist
 puts "Wingardium Leviosa"
 end
 end
-
+using_for
 
